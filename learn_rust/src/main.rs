@@ -9,4 +9,5 @@ fn main() {
 
     // Variables explained. read module variables.rs
     variables::module::variables();
+
 }
