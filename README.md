@@ -36,13 +36,41 @@
 - ❌ Smart Pointers
 - ❌ Concurrency
 
-Project example
+## Project example
 - in progress. ❌
 
 ## Updates
-* version 0.3 created modules.
-  - Data types
-  - Variables
 
-* version 0.1 created project repository and init push. 
+###### future update version 0.9 (FUTURE)
+- Enums
+- Modules
+- Collections
+- Error Handling
+- Generic Types
+- Input Output
+- File Input/ Output
+- Package Manager
+- Iterator and Closure
+- Smart Pointers
+- Concurrency
+
+###### version 0.5 created modules. (ALPHA)
+- Constant
+- String
+- Operators
+- Decision Making
+- Loop
+- Functions
+- Tuple
+- Array
+- Ownership
+- Borrowing
+- Slices
+- Structure
+
+###### version 0.3 created modules. (PUBLIC)
+- Data types
+- Variables
+
+###### version 0.1 created project repository and init push. 
 
