@@ -12,7 +12,7 @@
 ## Content
 - ✅ Data types 
 - ✅ Variables 
-- ✅ Constant 
+- ❌ Constant 
 - ❌ String 
 - ❌ Operators 
 - ❌ Decision Making 
