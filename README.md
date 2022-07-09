@@ -9,7 +9,37 @@
 ## How can I support?
 * You can fork the project and pull request improvements or mistakes, in code or comments that you find.
 
-## Update and content
+## Content
+- ✅ Data types 
+- ✅ Variables 
+- ✅ Constant 
+- ❌ String 
+- ❌ Operators 
+- ❌ Decision Making 
+- ❌ Loop 
+- ❌ Functions 
+- ❌ Tuple 
+- ❌ Array 
+- ❌ Ownership 
+- ❌ Borrowing 
+- ❌ Slices 
+- ❌ Structure 
+- ❌ Enums 
+- ❌ Modules 
+- ❌ Collections 
+- ❌ Error Handling 
+- ❌ Generic Types 
+- ❌ Input Output 
+- ❌ File Input/ Output 
+- ❌ Package Manager 
+- ❌ Iterator and Closure 
+- ❌ Smart Pointers 
+- ❌ Concurrency 
+
+Project example
+- in progress. ❌
+
+## Updates
 * version 0.3 created modules.
   - Data types
   - Variables
