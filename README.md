@@ -14,8 +14,8 @@
 - ✅ Variables
 - ✅ Constant
 - ✅ String
-- ❌ Decision Making
-- ❌ Loop
+- ✅ Decision Making
+- ✅ Loop
 - ❌ Functions
 - ❌ Tuple
 - ❌ Array

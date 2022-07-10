@@ -2,6 +2,8 @@ mod data_types;
 mod variables;
 mod constant;
 mod string;
+mod decision_making;
+mod loops;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -15,7 +17,13 @@ fn main() {
     // Constant and shadowing explained. Read module constant.rs
     constant::module::constant();
 
-    // String data types. Read module string.rs
+    // String data types explained. Read module string.rs
     string::module::string();
+
+    // Decision making or if statements explained. Read module decision_making.rs
+    decision_making::module::decision_making();
+
+    // Loops explained. Read module loops
+    loops::module::loops();
 
 }
