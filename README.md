@@ -13,7 +13,7 @@
 - ✅ Data types
 - ✅ Variables
 - ✅ Constant
-- ❌ String
+- ✅ String
 - ❌ Operators
 - ❌ Decision Making
 - ❌ Loop
