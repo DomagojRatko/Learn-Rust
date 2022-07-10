@@ -14,7 +14,6 @@
 - ✅ Variables
 - ✅ Constant
 - ✅ String
-- ❌ Operators
 - ❌ Decision Making
 - ❌ Loop
 - ❌ Functions
@@ -57,7 +56,6 @@
 ###### version 0.5 created modules. (ALPHA)
 - Constant
 - String
-- Operators
 - Decision Making
 - Loop
 - Functions
