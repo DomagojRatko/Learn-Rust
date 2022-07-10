@@ -1,6 +1,7 @@
 mod data_types;
 mod variables;
 mod constant;
+mod string;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -13,5 +14,8 @@ fn main() {
 
     // Constant and shadowing explained. Read module constant.rs
     constant::module::constant();
+
+    // String data types. Read module string.rs
+    string::module::string();
 
 }
