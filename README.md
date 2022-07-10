@@ -2,7 +2,6 @@
 
 ![1](https://user-images.githubusercontent.com/62218857/178111346-c40b4b23-3c83-4c9c-b3ca-af29797da117.jpg)
 
-
 ## What is this?
 * In this repository you can find modules with code and comments that explain rust syntax and all about rust lang.
 
@@ -40,7 +39,14 @@
 
 ## Updates
 
-###### future update version 0.9 (FUTURE)
+###### future update version 0.9 (ALPHA)
+- Functions
+- Tuple
+- Array
+- Ownership
+- Borrowing
+- Slices
+- Structure
 - Enums
 - Modules
 - Collections
@@ -53,22 +59,10 @@
 - Smart Pointers
 - Concurrency
 
-###### version 0.5 created modules. (ALPHA)
+###### version 0.4 created modules. (PUBLIC)
+- Data types
+- Variables
 - Constant
 - String
 - Decision Making
 - Loop
-- Functions
-- Tuple
-- Array
-- Ownership
-- Borrowing
-- Slices
-- Structure
-
-###### version 0.3 created modules. (PUBLIC)
-- Data types
-- Variables
-
-###### version 0.1 created project repository and init push. 
-
