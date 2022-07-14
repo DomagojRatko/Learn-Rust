@@ -1,5 +1,5 @@
 /**
- * In this module we will go through few examples and explain decision making in rust lang.
+ * In this module we will go through few examples and explain loops in rust lang.
  * For Loop. (line 12)
  * While Loop. (line 22)
  * Loop keyword use example. (line 30)

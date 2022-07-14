@@ -15,7 +15,7 @@
 - ✅ String
 - ✅ Decision Making
 - ✅ Loop
-- ❌ Functions
+- ✅ Functions
 - ❌ Tuple
 - ❌ Array
 - ❌ Ownership

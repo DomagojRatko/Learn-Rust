@@ -4,6 +4,7 @@ mod constant;
 mod string;
 mod decision_making;
 mod loops;
+mod functions;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -23,7 +24,10 @@ fn main() {
     // Decision making or if statements explained. Read module decision_making.rs
     decision_making::module::decision_making();
 
-    // Loops explained. Read module loops
+    // Loops explained. Read module loops.rs
     loops::module::loops();
+
+    // Functions explained. Read module functions.rs
+    functions::module::function();
 
 }
