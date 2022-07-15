@@ -16,7 +16,7 @@
 - ✅ Decision Making
 - ✅ Loop
 - ✅ Functions
-- ❌ Tuple
+- ✅ Tuple
 - ❌ Array
 - ❌ Ownership
 - ❌ Borrowing
