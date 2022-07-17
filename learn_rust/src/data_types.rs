@@ -17,7 +17,7 @@ pub mod module {
         let arg_string = "some"; //variable string that we can print
         println!("format {} arguments", arg_string); //prints format some arguments
 
-        //this is single line comment
+        // This is single line comment
         /* This is a
         Multi-line comment
         */
