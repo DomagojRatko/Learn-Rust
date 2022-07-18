@@ -4,6 +4,13 @@ mod constant;
 mod string;
 mod decision_making;
 mod loops;
+mod functions;
+mod tuple;
+mod arrays;
+mod ownership;
+mod borrowing;
+mod slices;
+mod structure;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -23,7 +30,28 @@ fn main() {
     // Decision making or if statements explained. Read module decision_making.rs
     decision_making::module::decision_making();
 
-    // Loops explained. Read module loops
+    // Loops explained. Read module loops.rs
     loops::module::loops();
+
+    // Functions explained. Read module functions.rs
+    functions::module::function();
+
+    // Tuple explained. Read module tuple.rs
+    tuple::module::tuple();
+
+    // Array explained. Read module arrays.rs
+    arrays::module::arrays();
+
+    // Ownership explained. Read module ownership.rs
+    ownership::module::ownership();
+
+    // Borrowing explained. Read module borrowing.rs
+    borrowing::module::borrowing();
+
+    // Slices explained. Read module slices.rs
+    slices::module::slices();
+
+    // Structure explained. Read module structure.rs
+    structure::module::structure();
 
 }
