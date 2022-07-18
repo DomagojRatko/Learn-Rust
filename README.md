@@ -4,6 +4,8 @@
 
 ## What is this?
 * In this repository you can find modules with code and comments that explain rust syntax and all about rust lang.
+* This is useful for intermediate programmers that can you this code as cheatsheet when programming with rust.
+* Example project provided was made using this repository cheatsheet code.
 
 ## How can I support?
 * You can fork the project and pull request improvements or mistakes, in code or comments that you find.
@@ -18,9 +20,9 @@
 - ✅ Functions
 - ✅ Tuple
 - ✅ Array
-- ❌ Ownership
-- ❌ Borrowing
-- ❌ Slices
+- ✅ Ownership
+- ✅ Borrowing
+- ✅ Slices
 - ❌ Structure
 - ❌ Enums
 - ❌ Modules
@@ -35,17 +37,11 @@
 - ❌ Concurrency
 
 ## Project example
-- in progress. ❌
+- ❌ In progress.
 
 ## Updates
 
 ###### future update version 0.9 (ALPHA)
-- Functions
-- Tuple
-- Array
-- Ownership
-- Borrowing
-- Slices
 - Structure
 - Enums
 - Modules
@@ -59,10 +55,16 @@
 - Smart Pointers
 - Concurrency
 
-###### version 0.4 created modules. (PUBLIC)
+###### version 0.5 created modules. (PUBLIC)
 - Data types
 - Variables
 - Constant
 - String
 - Decision Making
 - Loop
+- Functions
+- Tuple
+- Array
+- Ownership
+- Borrowing
+- Slices

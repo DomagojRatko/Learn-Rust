@@ -19,7 +19,7 @@ pub mod module {
 
         // Shadowing of variables and constants.
         // The new variable overrides the previous variable.
-        let price = 100.00;
+        let _price = 100.00;
         let price = 50.50 ;
         println!("The value of salary is :{}",price);
         // NOTE: Output will be "The value of salary is :1.50".

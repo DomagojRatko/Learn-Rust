@@ -7,6 +7,10 @@ mod loops;
 mod functions;
 mod tuple;
 mod arrays;
+mod ownership;
+mod borrowing;
+mod slices;
+mod structure;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -37,5 +41,17 @@ fn main() {
 
     // Array explained. Read module arrays.rs
     arrays::module::arrays();
+
+    // Ownership explained. Read module ownership.rs
+    ownership::module::ownership();
+
+    // Borrowing explained. Read module borrowing.rs
+    borrowing::module::borrowing();
+
+    // Slices explained. Read module slices.rs
+    slices::module::slices();
+
+    // Structure explained. Read module structure.rs
+    structure::module::structure();
 
 }
