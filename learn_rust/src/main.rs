@@ -6,6 +6,7 @@ mod decision_making;
 mod loops;
 mod functions;
 mod tuple;
+mod arrays;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -33,5 +34,8 @@ fn main() {
 
     // Tuple explained. Read module tuple.rs
     tuple::module::tuple();
+
+    // Array explained. Read module arrays.rs
+    arrays::module::arrays();
 
 }

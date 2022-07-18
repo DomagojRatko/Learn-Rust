@@ -17,7 +17,7 @@
 - ✅ Loop
 - ✅ Functions
 - ✅ Tuple
-- ❌ Array
+- ✅ Array
 - ❌ Ownership
 - ❌ Borrowing
 - ❌ Slices
