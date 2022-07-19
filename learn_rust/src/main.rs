@@ -61,5 +61,4 @@ fn main() {
 
     // Modules explained. Read module module.rs
     module::module::modules();
-
 }
