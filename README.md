@@ -24,8 +24,8 @@
 - ✅ Borrowing
 - ✅ Slices
 - ✅ Structure
-- ❌ Enums
-- ❌ Modules
+- ✅ Enums
+- ✅ Modules
 - ❌ Collections
 - ❌ Error Handling
 - ❌ Generic Types

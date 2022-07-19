@@ -11,6 +11,8 @@ mod ownership;
 mod borrowing;
 mod slices;
 mod structure;
+mod enums;
+mod module;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -53,5 +55,11 @@ fn main() {
 
     // Structure explained. Read module structure.rs
     structure::module::structure();
+
+    // Enum explained. Read module enums.rs
+    enums::module::enums();
+
+    // Modules explained. Read module modules.rs
+    module::module::modules();
 
 }
