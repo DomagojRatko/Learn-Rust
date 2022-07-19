@@ -59,7 +59,6 @@ fn main() {
     // Enum explained. Read module enums.rs
     enums::module::enums();
 
-    // Modules explained. Read module modules.rs
+    // Modules explained. Read module module.rs
     module::module::modules();
-
 }
