@@ -23,7 +23,7 @@
 - ✅ Ownership
 - ✅ Borrowing
 - ✅ Slices
-- ❌ Structure
+- ✅ Structure
 - ❌ Enums
 - ❌ Modules
 - ❌ Collections
