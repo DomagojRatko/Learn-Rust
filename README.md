@@ -4,7 +4,7 @@
 
 ## What is this?
 * In this repository you can find modules with code and comments that explain rust syntax and all about rust lang.
-* This is useful for intermediate programmers that can you this code as cheatsheet when programming with rust.
+* This is useful for intermediate programmers that can use this code as cheatsheet when programming with rust.
 * Example project provided was made using this repository cheatsheet code.
 
 ## How can I support?
