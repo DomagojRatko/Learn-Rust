@@ -13,10 +13,14 @@ mod slices;
 mod structure;
 mod enums;
 mod module;
+mod vectors;
+mod hashmap;
+mod hashset;
 
 // main function to run program
 // use on run --release to make program run faster
 fn main() {
+
     // Data types explained. Read model data_types.rs
     data_types::module::data_types();
 
@@ -61,4 +65,14 @@ fn main() {
 
     // Modules explained. Read module module.rs
     module::module::modules();
+
+    // Vectors explained. Read module vectors.rs
+    vectors::module::vectors();
+
+    // HashMap explained. Read module hashmap.rs
+    hashmap::module::hashmap();
+
+    // HashSet explained. Read module hashset.rs
+    hashset::module::hashset();
+
 }

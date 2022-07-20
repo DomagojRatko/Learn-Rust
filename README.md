@@ -26,7 +26,9 @@
 - ✅ Structure
 - ✅ Enums
 - ✅ Modules
-- ❌ Collections
+- ✅ Vector
+- ✅ HashMap
+- ✅ HashSet
 - ❌ Error Handling
 - ❌ Generic Types
 - ❌ Input Output
@@ -45,7 +47,9 @@
 - Structure
 - Enums
 - Modules
-- Collections
+- Vector
+- HashMap
+- HashSet
 - Error Handling
 - Generic Types
 - Input Output
