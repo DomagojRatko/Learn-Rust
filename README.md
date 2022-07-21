@@ -23,10 +23,12 @@
 - ✅ Ownership
 - ✅ Borrowing
 - ✅ Slices
-- ❌ Structure
-- ❌ Enums
-- ❌ Modules
-- ❌ Collections
+- ✅ Structure
+- ✅ Enums
+- ✅ Modules
+- ✅ Vector
+- ✅ HashMap
+- ✅ HashSet
 - ❌ Error Handling
 - ❌ Generic Types
 - ❌ Input Output
@@ -37,15 +39,21 @@
 - ❌ Concurrency
 
 ## Project example
-- ❌ In progress.
+- ❌ Snake Game
+- ✅ **[Port scanner](https://github.com/DomagojRatko/Port-Scanner)**
 
 ## Updates
+
+###### future update version 1.0 (Final version)
+- Snake Game
 
 ###### future update version 0.9 (ALPHA)
 - Structure
 - Enums
 - Modules
-- Collections
+- Vector
+- HashMap
+- HashSet
 - Error Handling
 - Generic Types
 - Input Output
