@@ -39,40 +39,18 @@
 - ❌ Concurrency
 
 ## Project example
-- ❌ Snake Game
+- ❌ Snake Game 
 - ✅ **[Port scanner](https://github.com/DomagojRatko/Port-Scanner)**
 
 ## Updates
 
-###### future update version 1.0 (Final version)
-- Snake Game
-
-###### future update version 0.9 (ALPHA)
-- Structure
-- Enums
-- Modules
-- Vector
-- HashMap
-- HashSet
-- Error Handling
-- Generic Types
-- Input Output
-- File Input/ Output
-- Package Manager
-- Iterator and Closure
-- Smart Pointers
-- Concurrency
-
-###### version 0.5 created modules. (PUBLIC)
-- Data types
-- Variables
-- Constant
-- String
-- Decision Making
-- Loop
-- Functions
-- Tuple
-- Array
-- Ownership
-- Borrowing
-- Slices
+###### future update version 1.0 (ALPHA)
+- [ ] Error Handling
+- [ ] Generic Types
+- [ ] Input Output
+- [ ] File Input/ Output
+- [ ] Package Manager
+- [ ] Iterator and Closure
+- [ ] Smart Pointers
+- [ ] Concurrency
+- [ ] Snake Game
