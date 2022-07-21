@@ -29,7 +29,7 @@
 - ✅ Vector
 - ✅ HashMap
 - ✅ HashSet
-- ❌ Error Handling
+- ✅ Error Handling
 - ❌ Generic Types
 - ❌ Input Output
 - ❌ File Input/ Output
@@ -45,7 +45,7 @@
 ## Updates
 
 ###### future update version 1.0 (ALPHA)
-- [ ] Error Handling
+- [x] Error Handling
 - [ ] Generic Types
 - [ ] Input Output
 - [ ] File Input/ Output

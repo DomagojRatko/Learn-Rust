@@ -16,6 +16,7 @@ mod module;
 mod vectors;
 mod hashmap;
 mod hashset;
+mod error_handling;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -74,5 +75,8 @@ fn main() {
 
     // HashSet explained. Read module hashset.rs
     hashset::module::hashset();
+
+    // Error handling explained. Read module error_handling.rs
+    error_handling::module::error_handling();
 
 }
