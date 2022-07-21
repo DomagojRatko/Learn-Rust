@@ -1,6 +1,6 @@
 # Learn Rust
 
-![1](https://user-images.githubusercontent.com/62218857/178111346-c40b4b23-3c83-4c9c-b3ca-af29797da117.jpg)
+![img](https://user-images.githubusercontent.com/62218857/180304907-7a58e16e-a2a4-49fb-9771-4b9bd6fbc3e9.jpg)
 
 ## What is this?
 * In this repository you can find modules with code and comments that explain rust syntax and all about rust lang.
