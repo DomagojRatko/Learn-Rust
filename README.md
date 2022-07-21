@@ -11,7 +11,7 @@
 * You can fork the project and pull request improvements or mistakes, in code or comments that you find.
 
 ## Content
-- ✅ Data types
+- ✅ [Data types]
 - ✅ Variables
 - ✅ Constant
 - ✅ String
@@ -19,7 +19,7 @@
 - ✅ Loop
 - ✅ Functions
 - ✅ Tuple
-- ✅ Array
+- ✅ **[Array](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/arrays.rs)**
 - ✅ Ownership
 - ✅ Borrowing
 - ✅ Slices
