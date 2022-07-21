@@ -11,24 +11,24 @@
 * You can fork the project and pull request improvements or mistakes, in code or comments that you find.
 
 ## Content
-- ✅ [Data types]
-- ✅ Variables
-- ✅ Constant
-- ✅ String
-- ✅ Decision Making
-- ✅ Loop
-- ✅ Functions
-- ✅ Tuple
+- ✅ **[Data types](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/data_types.rs)**
+- ✅ **[Variables](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/variables.rs)**
+- ✅ **[Constant](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/constant.rs)**
+- ✅ **[String](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/string.rs)**
+- ✅ **[Decision Making](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/decision_making.rs)**
+- ✅ **[Loop](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/loops.rs)**
+- ✅ **[Functions](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/functions.rs)**
+- ✅ **[Tuple](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/tuple.rs)**
 - ✅ **[Array](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/arrays.rs)**
-- ✅ Ownership
-- ✅ Borrowing
-- ✅ Slices
-- ✅ Structure
-- ✅ Enums
-- ✅ Modules
-- ✅ Vector
-- ✅ HashMap
-- ✅ HashSet
+- ✅ **[Ownership](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/ownership.rs)**
+- ✅ **[Borrowing](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/borrowing.rs)**
+- ✅ **[Slices](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/slices.rs)**
+- ✅ **[Structure](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/structure.rs)**
+- ✅ **[Enums](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/enums.rs)**
+- ✅ **[Modules](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/module.rs)**
+- ✅ **[Vector](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/vectors.rs)**
+- ✅ **[HashMap](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/hashmap.rs)**
+- ✅ **[HashSet](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/hashset.rs)**
 - ❌ Error Handling
 - ❌ Generic Types
 - ❌ Input Output
