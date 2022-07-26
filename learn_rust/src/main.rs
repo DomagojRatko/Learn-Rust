@@ -17,6 +17,8 @@ mod vectors;
 mod hashmap;
 mod hashset;
 mod error_handling;
+mod generics;
+mod input_output;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -78,5 +80,11 @@ fn main() {
 
     // Error handling explained. Read module error_handling.rs
     error_handling::module::error_handling();
+
+    // Generics explained. Read module generics.rs
+    generics::module::generics();
+
+    // Input and output explained. Read module input_output.rs
+    input_output::module::input_output();
 
 }

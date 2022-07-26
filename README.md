@@ -29,25 +29,25 @@
 - ✅ **[Vector](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/vectors.rs)**
 - ✅ **[HashMap](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/hashmap.rs)**
 - ✅ **[HashSet](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/hashset.rs)**
-- ✅ Error Handling
-- ❌ Generic Types
-- ❌ Input Output
-- ❌ File Input/ Output
-- ❌ Package Manager
-- ❌ Iterator and Closure
-- ❌ Smart Pointers
-- ❌ Concurrency
+- ✅ **[Error Handling](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/error_handling.rs)**
+- ✅ **[Generic Types](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/generics.rs)**
+- ✅ **[Input Output](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/input_output.rs)**
+- ❌ **[File Input/ Output](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
+- ❌ **[Package Manager](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
+- ❌ **[Iterator and Closure](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
+- ❌ **[Smart Pointers](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
+- ❌ **[Concurrency](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
 
 ## Project example
-- ❌ Snake Game
 - ✅ **[Port scanner](https://github.com/DomagojRatko/Port-Scanner)**
+- ❌ Snake Game
 
 ## Updates
 
 ###### future update version 1.0 (ALPHA)
-- [ ] Error Handling
-- [ ] Generic Types
-- [ ] Input Output
+- [x] Error Handling
+- [x] Generic Types
+- [x] Input Output
 - [ ] File Input/ Output
 - [ ] Package Manager
 - [ ] Iterator and Closure
