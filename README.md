@@ -29,7 +29,7 @@
 - ✅ **[Vector](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/vectors.rs)**
 - ✅ **[HashMap](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/hashmap.rs)**
 - ✅ **[HashSet](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/hashset.rs)**
-- ✅ Error Handling
+- ✅ **[Error Handling](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/error_handling.rs)**
 - ❌ Generic Types
 - ❌ Input Output
 - ❌ File Input/ Output
@@ -39,8 +39,8 @@
 - ❌ Concurrency
 
 ## Project example
-- ❌ Snake Game
 - ✅ **[Port scanner](https://github.com/DomagojRatko/Port-Scanner)**
+- ❌ Snake Game
 
 ## Updates
 
