@@ -1,6 +1,6 @@
 # Learn Rust
 
-![1](https://user-images.githubusercontent.com/62218857/178111346-c40b4b23-3c83-4c9c-b3ca-af29797da117.jpg)
+![img](https://user-images.githubusercontent.com/62218857/180304907-7a58e16e-a2a4-49fb-9771-4b9bd6fbc3e9.jpg)
 
 ## What is this?
 * In this repository you can find modules with code and comments that explain rust syntax and all about rust lang.
@@ -11,24 +11,24 @@
 * You can fork the project and pull request improvements or mistakes, in code or comments that you find.
 
 ## Content
-- ✅ Data types
-- ✅ Variables
-- ✅ Constant
-- ✅ String
-- ✅ Decision Making
-- ✅ Loop
-- ✅ Functions
-- ✅ Tuple
-- ✅ Array
-- ✅ Ownership
-- ✅ Borrowing
-- ✅ Slices
-- ✅ Structure
-- ✅ Enums
-- ✅ Modules
-- ✅ Vector
-- ✅ HashMap
-- ✅ HashSet
+- ✅ **[Data types](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/data_types.rs)**
+- ✅ **[Variables](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/variables.rs)**
+- ✅ **[Constant](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/constant.rs)**
+- ✅ **[String](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/string.rs)**
+- ✅ **[Decision Making](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/decision_making.rs)**
+- ✅ **[Loop](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/loops.rs)**
+- ✅ **[Functions](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/functions.rs)**
+- ✅ **[Tuple](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/tuple.rs)**
+- ✅ **[Array](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/arrays.rs)**
+- ✅ **[Ownership](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/ownership.rs)**
+- ✅ **[Borrowing](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/borrowing.rs)**
+- ✅ **[Slices](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/slices.rs)**
+- ✅ **[Structure](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/structure.rs)**
+- ✅ **[Enums](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/enums.rs)**
+- ✅ **[Modules](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/module.rs)**
+- ✅ **[Vector](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/vectors.rs)**
+- ✅ **[HashMap](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/hashmap.rs)**
+- ✅ **[HashSet](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/hashset.rs)**
 - ✅ Error Handling
 - ❌ Generic Types
 - ❌ Input Output
@@ -39,13 +39,13 @@
 - ❌ Concurrency
 
 ## Project example
-- ❌ Snake Game 
+- ❌ Snake Game
 - ✅ **[Port scanner](https://github.com/DomagojRatko/Port-Scanner)**
 
 ## Updates
 
 ###### future update version 1.0 (ALPHA)
-- [x] Error Handling
+- [ ] Error Handling
 - [ ] Generic Types
 - [ ] Input Output
 - [ ] File Input/ Output
