@@ -38,6 +38,7 @@
 - ❌ **[Smart Pointers](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
 - ❌ **[Concurrency](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
 
+
 ## Project example
 - ✅ **[Port scanner](https://github.com/DomagojRatko/Port-Scanner)**
 - ❌ Snake Game
