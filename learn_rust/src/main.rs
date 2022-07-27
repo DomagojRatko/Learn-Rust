@@ -19,6 +19,8 @@ mod hashset;
 mod error_handling;
 mod generics;
 mod input_output;
+mod file_input_output;
+mod package_manager;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -87,5 +89,10 @@ fn main() {
     // Input and output explained. Read module input_output.rs
     input_output::module::input_output();
 
+    // File input and output explained. Read module file_input_output.rs
+    file_input_output::module.file_input_output();
+
+    // Package manager explained. Read module package_manager.rs
+    package_manager::module::package_manager();
 
 }

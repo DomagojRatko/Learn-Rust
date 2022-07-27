@@ -3,8 +3,8 @@
 ![img](https://user-images.githubusercontent.com/62218857/180304907-7a58e16e-a2a4-49fb-9771-4b9bd6fbc3e9.jpg)
 
 ## What is this?
-* In this repository you can find modules with code and comments that explain rust syntax and all about rust lang.
-* This is useful for intermediate programmers that can use this code as cheatsheet when programming with rust.
+* In this repository you can find modules with code and comments that explain rust syntax and all about Rust lang.
+* This is useful for intermediate programmers that can use this code as cheatsheet when programming with Rust.
 * Example project provided was made using this repository cheatsheet code.
 
 ## How can I support?
@@ -32,8 +32,8 @@
 - ✅ **[Error Handling](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/error_handling.rs)**
 - ✅ **[Generic Types](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/generics.rs)**
 - ✅ **[Input Output](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/input_output.rs)**
-- ❌ **[File Input/ Output](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
-- ❌ **[Package Manager](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
+- ✅ **[File Input/ Output](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/file_input_output.rs)**
+- ✅ **[Package Manager](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/package_manager.rs)**
 - ❌ **[Iterator and Closure](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
 - ❌ **[Smart Pointers](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
 - ❌ **[Concurrency](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
@@ -48,8 +48,8 @@
 - [x] Error Handling
 - [x] Generic Types
 - [x] Input Output
-- [ ] File Input/ Output
-- [ ] Package Manager
+- [x] File Input/ Output
+- [x] Package Manager
 - [ ] Iterator and Closure
 - [ ] Smart Pointers
 - [ ] Concurrency
