@@ -90,7 +90,7 @@ fn main() {
     input_output::module::input_output();
 
     // File input and output explained. Read module file_input_output.rs
-    file_input_output::module.file_input_output();
+    file_input_output::module::file_input_output();
 
     // Package manager explained. Read module package_manager.rs
     package_manager::module::package_manager();
