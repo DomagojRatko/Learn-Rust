@@ -16,6 +16,13 @@ mod module;
 mod vectors;
 mod hashmap;
 mod hashset;
+mod error_handling;
+mod generics;
+mod input_output;
+mod file_input_output;
+mod iterator_closure;
+mod smart_pointers;
+mod concurrency;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -74,5 +81,26 @@ fn main() {
 
     // HashSet explained. Read module hashset.rs
     hashset::module::hashset();
+
+    // Error handling explained. Read module error_handling.rs
+    error_handling::module::error_handling();
+
+    // Generics explained. Read module generics.rs
+    generics::module::generics();
+
+    // Input and output explained. Read module input_output.rs
+    input_output::module::input_output();
+
+    // File input and output explained. Read module file_input_output.rs
+    file_input_output::module::file_input_output();
+
+    // Iterator and closure explained. Read module iterator_closure.rs
+    iterator_closure::module::iterator_closure();
+
+    // Smart pointers explained. Read module smart_pointers.rs
+    smart_pointers::module::smart_pointers();
+
+    // Concurrency explained. Read module concurrency.rs
+    concurrency::module::concurrency();
 
 }
