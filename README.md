@@ -46,7 +46,7 @@
 ###### How should I use this?
 * Example how this repository can help you.
 1. You want to know "how to insert value to HashMap".
-2. Look at Content table in repository [read me]([https://github.com/DomagojRatko/Learn-Rust/blob/alpha/README.md](https://github.com/DomagojRatko/Learn-Rust/blob/master/README.md)).
+2. Look at Content table in repository [read me]([https://github.com/DomagojRatko/Learn-Rust/blob/alpha/README.md](https://github.com/DomagojRatko/Learn-Rust/blob/master/README.md).
 3. Find [HashMap](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/hashmap.rs) on list.
 4. Look for code that describes how to insert value to HashMap.
 
