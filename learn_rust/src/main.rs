@@ -20,8 +20,9 @@ mod error_handling;
 mod generics;
 mod input_output;
 mod file_input_output;
-mod package_manager;
 mod iterator_closure;
+mod smart_pointers;
+mod concurrency;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -93,10 +94,13 @@ fn main() {
     // File input and output explained. Read module file_input_output.rs
     file_input_output::module::file_input_output();
 
-    // Package manager explained. Read module package_manager.rs
-    package_manager::module::package_manager();
-
     // Iterator and closure explained. Read module iterator_closure.rs
     iterator_closure::module::iterator_closure();
+
+    // Smart pointers explained. Read module smart_pointers.rs
+    smart_pointers::module::smart_pointers();
+
+    // Concurrency explained. Read module concurrency.rs
+    concurrency::module::concurrency();
 
 }
