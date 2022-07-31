@@ -33,8 +33,8 @@
 - ✅ **[Generic Types](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/generics.rs)**
 - ✅ **[Input Output](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/input_output.rs)**
 - ✅ **[File Input/ Output](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/file_input_output.rs)**
-- ✅ **[Package Manager](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/package_manager.rs)**
-- ❌ **[Iterator and Closure](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
+- ❌ **[Package Manager](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/package_manager.rs)**
+- ✅ **[Iterator and Closure](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
 - ❌ **[Smart Pointers](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
 - ❌ **[Concurrency](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/)**
 
@@ -49,8 +49,8 @@
 - [x] Generic Types
 - [x] Input Output
 - [x] File Input/ Output
-- [x] Package Manager
-- [ ] Iterator and Closure
+- [ ] Package Manager
+- [x] Iterator and Closure
 - [ ] Smart Pointers
 - [ ] Concurrency
 - [ ] Snake Game

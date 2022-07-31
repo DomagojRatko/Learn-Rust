@@ -21,6 +21,7 @@ mod generics;
 mod input_output;
 mod file_input_output;
 mod package_manager;
+mod iterator_closure;
 
 // main function to run program
 // use on run --release to make program run faster
@@ -94,5 +95,8 @@ fn main() {
 
     // Package manager explained. Read module package_manager.rs
     package_manager::module::package_manager();
+
+    // Iterator and closure explained. Read module iterator_closure.rs
+    iterator_closure::module::iterator_closure();
 
 }
