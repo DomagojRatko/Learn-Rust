@@ -42,9 +42,6 @@
 ###### Future projects and repository updates.
 - [ ] Snake Game
 
-## How can I support?
-* You can fork the project and pull request improvements or mistakes, in code or comments that you find.
-
 ## QA
 ###### How should I use this?
 * Example how this repository can help you.
@@ -61,3 +58,6 @@
 * doc.rust-lang.org
 * tutorialspoint.com
 * github.com/dtolnay/rust-faq/
+
+###### How can I support?
+* You can fork the project and pull request improvements or mistakes, in code or comments that you find.
