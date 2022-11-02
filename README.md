@@ -36,6 +36,7 @@
 
 ## Project example
 - ✅ **[Port scanner](https://github.com/DomagojRatko/Port-Scanner)**
+- ✅ **[IP Geolocation](https://github.com/DomagojRatko/Ip_Geolocation)**
 
 ## Updates
 
