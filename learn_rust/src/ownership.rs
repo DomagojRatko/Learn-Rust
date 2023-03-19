@@ -23,7 +23,7 @@ pub mod module {
         // So it is not a candidate for stack allocation but for heap allocation.
 
         // Heap.
-        //The heap memory stores data values the size of which is unknown at compile time.
+        // The heap memory stores data values the size of which is unknown at compile time.
         // It is used to store dynamic data. Simply put, a heap memory is allocated to data values that may change throughout the life cycle of the program.
         // The heap is an area in the memory which is less organized when compared to stack.
 
