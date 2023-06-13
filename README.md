@@ -43,7 +43,7 @@
 ###### Future projects and repository updates.
 - [ ] Snake Game
 
-## QA
+## Q&A
 ###### How should I use this?
 * Example how this repository can help you.
 1. You want to know "how to insert value to HashMap".
