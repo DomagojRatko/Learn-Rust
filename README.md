@@ -35,6 +35,7 @@
 - ✅ **[Concurrency](https://github.com/DomagojRatko/Learn-Rust/blob/master/learn_rust/src/concurrency.rs)**
 
 ## Project example
+- ✅ **[Simple_Temperature_Converter (for begginers)](https://github.com/DomagojRatko/Learn-Rust/blob/904ee2b44d5ae0414235da78b2fcbd8231e86ab2/learn_rust/src/simple_temperature_converter)**
 - ✅ **[Port scanner](https://github.com/DomagojRatko/Port-Scanner)**
 - ✅ **[IP Geolocation](https://github.com/DomagojRatko/Ip_Geolocation)**
 
