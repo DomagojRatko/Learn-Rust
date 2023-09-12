@@ -36,6 +36,7 @@
 
 ## Project example
 - ✅ **[Simple Temperature Converter (for begginers)](https://github.com/DomagojRatko/Learn-Rust/blob/90289569afcb605d67302523ae18f5da35adbd77/learn_rust/src/simple_temperature_converter.rs)**
+- ✅ **[Simple Month Guess Game (for begginers)](https://github.com/DomagojRatko/Learn-Rust/blob/7b3bbec8ae3530f80e78aea8e7d9c4f7ab95d76e/learn_rust/src/simple_month_game.rs)**
 - ✅ **[Port scanner](https://github.com/DomagojRatko/Port-Scanner)**
 - ✅ **[IP Geolocation](https://github.com/DomagojRatko/Ip_Geolocation)**
 
